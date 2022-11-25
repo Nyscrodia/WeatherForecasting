@@ -1,0 +1,17 @@
+지점		-	sopt
+지점명		-	spotName
+일시			-	date
+기온			-	Ta
+강수량			-	Rn
+풍속			-	Ws
+풍향			-	Wd
+습도			-	Hm
+현지기압		-	Pa
+해면기압		-	Ps
+일조			-	Ss
+일사			-	Gsr
+적설			-	Snow
+3시간신적설	-	DpthFhsc
+전운량			-	Tca
+운형			-	CloudForm
+지면온도		-	Ts
